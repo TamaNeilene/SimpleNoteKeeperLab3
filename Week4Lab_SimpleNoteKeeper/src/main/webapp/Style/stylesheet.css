@@ -11,3 +11,14 @@ and open the template in the editor.
 body{
     background-color: lightskyblue;
 }
+
+label {
+  vertical-align: bottom;
+  width: 140px;
+  text-align: right;
+  
+}​
+
+#contents{
+    background-color: gold;
+}
